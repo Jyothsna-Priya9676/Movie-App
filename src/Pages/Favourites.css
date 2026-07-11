@@ -1,0 +1,16 @@
+.favorites {
+    width: 90%;
+    margin: 60px auto;
+    text-align: center;
+}
+
+.favorites h1 {
+    color: #ef4444;
+    margin-bottom: 20px;
+    font-size: 40px;
+}
+
+.favorites p {
+    color: #cbd5e1;
+    font-size: 18px;
+}

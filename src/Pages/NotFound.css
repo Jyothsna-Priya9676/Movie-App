@@ -1,0 +1,35 @@
+.not_found{
+
+height:80vh;
+
+display:flex;
+
+flex-direction:column;
+
+justify-content:center;
+
+align-items:center;
+
+}
+
+
+.not_found h1{
+
+font-size:120px;
+
+color:#e50914;
+
+}
+
+
+.not_found a{
+
+background:#e50914;
+
+padding:12px 25px;
+
+border-radius:8px;
+
+margin-top:20px;
+
+}
