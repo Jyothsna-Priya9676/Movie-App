@@ -9,7 +9,7 @@ import {
     IMAGE_URL
 } from "../Services/api";
 
-import MovieCard from "../Components/MovieCard/MovieCard";
+import MovieCard from "../components/MovieCard/MovieCard";
 
 const MovieDetails = () => {
 
