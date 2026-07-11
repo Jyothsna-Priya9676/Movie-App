@@ -1,128 +1,71 @@
 # 🎬 CineVerse
 
-A modern and responsive Movie App built using **React**, **Vite**, and the **TMDB API**. Browse trending, popular, top-rated, and upcoming movies with a beautiful UI, filtering, sorting, and dark mode.
+A modern and responsive Movie Application built with **React**, **Vite**, and the **TMDB API**. Users can browse Popular, Trending, Top Rated, and Upcoming movies with filtering, sorting, favorites, dark mode, and responsive design.
 
 ---
 
-# 🚀 Live Demo
+## 🚀 Live Demo
 
-> Add your Vercel link here after deployment
-
-https://your-vercel-link.vercel.app
+Coming Soon (Deploying on Netlify)
 
 ---
 
-# 📸 Screenshots
+## 📸 Screenshots
 
-## 🏠 Home Page
+### 🏠 Home Page
 
-![Home](screenshots/home.png)
+![Home](Screenshots/movie2.jpeg)
 
----
+### 🎥 Movie Details
 
-## 🎥 Movie Details
-
-![Movie Details](screenshots/details.png)
+![Movie Details](Screenshots/movie3.jpeg)
 
 ---
 
-## 🌙 Dark Mode
-
-![Dark Mode](screenshots/darkmode.png)
-
----
-
-## ⭐ Features
+## ✨ Features
 
 - 🎬 Browse Popular Movies
 - 🔥 Trending Movies
 - ⭐ Top Rated Movies
 - 📅 Upcoming Movies
-- 🎥 Movie Details Page
-- 🔍 Search Movies
+- 🎥 Movie Details
 - ⭐ Filter by Rating
 - 📊 Sort by Rating & Release Date
-- 🌙 Dark / Light Mode
-- ❤️ Favorites Page
-- 📱 Fully Responsive
-- ⚡ Fast Performance with Vite
+- ❤️ Favorites
+- 🌙 Dark / Light Theme
+- 📱 Fully Responsive UI
+- ⚡ Fast Performance using Vite
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-| Technology | Used |
-|------------|------|
-| React | ✅ |
-| Vite | ✅ |
-| React Router | ✅ |
-| JavaScript | ✅ |
-| CSS3 | ✅ |
-| TMDB API | ✅ |
+- React
+- Vite
+- React Router
+- JavaScript
+- CSS3
+- TMDB API
 
 ---
 
-# 📂 Folder Structure
-
-```
-src
-│
-├── Assets
-│
-├── Components
-│   ├── Navbar
-│   ├── MovieCard
-│   ├── MovieList
-│   └── DarkMode
-│
-├── Pages
-│   ├── Home
-│   ├── MovieDetails
-│   ├── Favorites
-│   ├── Trending
-│   └── NotFound
-│
-├── Services
-│   └── api.jsx
-│
-├── App.jsx
-├── main.jsx
-└── index.css
-```
-
----
-
-# ⚙ Installation
-
-Clone the repository
+## 📂 Installation
 
 ```bash
 git clone https://github.com/Jyothsna-Priya9676/Movie-App.git
-```
 
-Go into the project
-
-```bash
 cd Movie-App
-```
 
-Install dependencies
-
-```bash
 npm install
-```
 
-Run the application
-
-```bash
 npm run dev
 ```
 
 ---
 
-# 🔑 Environment Variables
+## 🔑 Environment Variable
 
-Create a `.env` file in the root directory.
+Create a `.env` file.
 
 ```env
 VITE_TMDB_API_KEY=YOUR_API_KEY
@@ -130,43 +73,35 @@ VITE_TMDB_API_KEY=YOUR_API_KEY
 
 ---
 
-# 📖 API
+## 📖 API
 
-This project uses the **TMDB (The Movie Database) API**.
+TMDB API
 
 https://developer.themoviedb.org/
 
 ---
 
-# 💡 Future Improvements
+## 🚀 Future Improvements
 
-- Login Authentication
+- Authentication
 - Watchlist
 - Pagination
 - Infinite Scroll
-- Trailer Support
+- Movie Trailer
+- Cast & Crew
 - Reviews
-- Cast Details
 - Search Suggestions
-- Redux Toolkit
-- Firebase Authentication
 
 ---
 
-# 👩‍💻 Author
+## 👩‍💻 Author
 
 **Jyothsna Priya**
 
-GitHub
-
+GitHub:
 https://github.com/Jyothsna-Priya9676
 
-LinkedIn:https://www.linkedin.com/in/jyothsna-priya-ardhamala-841299328
+LinkedIn:
+https://www.linkedin.com/in/jyothsna-priya-ardhamala-841299328/
 
----
-
-# ⭐ Support
-
-If you like this project,
-
-⭐ Star this repository on GitHub.
+⭐ If you like this project, don't forget to Star this repository.
