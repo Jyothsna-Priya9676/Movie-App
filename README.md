@@ -6,8 +6,7 @@ A modern, responsive movie discovery application built with **React**, **Vite**,
 
 ## 🚀 Live Demo
 
-🌐 **Live Website:** https://Movie-app.netlify.app
-
+🌐 **Live Website:**https://jmovieapp.netlify.app
 ---
 
 ## 📸 Application Preview
