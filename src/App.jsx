@@ -3,7 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Trending from "./Pages/Trending";
 import About from "./Pages/About";
 
-import Navbar from "./Components/Navbar/Navbar";
+import Navbar from "./components/Navbar/Navbar";
 
 import Home from "./Pages/Home";
 import Favorites from "./Pages/Favorites";
