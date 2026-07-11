@@ -1,4 +1,4 @@
-import MovieList from "../Components/MovieList/MovieList";
+import MovieList from "../components/MovieList/MovieList";
 
 const Trending = () => {
   return (
