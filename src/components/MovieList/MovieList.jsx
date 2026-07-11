@@ -2,7 +2,7 @@ import { useEffect, useState } from "react";
 import _ from "lodash";
 
 import "./MovieList.css";
-import MovieCard from "../MovieCard/MovieCard";
+import MovieCard from "../Moviecard/MovieCard";
 import FilterGroup from "./FilterGroup";
 
 import { fetchMovies } from "../../Services/api";
